@@ -1,0 +1,17 @@
+NAME: Swathi Janapala
+Roll Num: 23CS60R80
+
+
+LR directory contains:
+->Run node2Vec.py for generating node_embeddings i saved them in .npz file
+->logistic_regression.py contains the code to learn the model using logistic regression from scikit learn
+and i have also finetuned to get better resluts.
+->lr_metrics.txt conttains evalution results.
+
+GCN directory contains
+->Gcn.py (my Graph convoultion network information)
+->gcn_metrics.txt contains evalution and metrix details are there.
+
+Finally, analysis pdf describes the keypoints,model complexity difference between LR model and GCN model.
+
+
